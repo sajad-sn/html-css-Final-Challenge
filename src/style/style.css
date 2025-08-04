@@ -353,6 +353,7 @@ html {
   .orders__card-info {
     flex-direction: column;
     border-bottom: 0;
+    align-items: normal;
   }
 }
 .orders__card-info-details {
